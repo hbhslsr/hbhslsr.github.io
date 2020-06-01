@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on 幻想乡</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on 幻想乡</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 May 2020 22:05:26 +0800</lastBuildDate>
+    
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>tags3</title>
+      <link>/tags/tags3/</link>
+      <pubDate>Wed, 20 May 2020 22:05:26 +0800</pubDate>
+      
+      <guid>/tags/tags3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tag3</title>
+      <link>/tags/tag3/</link>
+      <pubDate>Wed, 20 May 2020 14:20:29 +0800</pubDate>
+      
+      <guid>/tags/tag3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tag4</title>
+      <link>/tags/tag4/</link>
+      <pubDate>Wed, 20 May 2020 14:20:29 +0800</pubDate>
+      
+      <guid>/tags/tag4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>233</title>
+      <link>/tags/233/</link>
+      <pubDate>Wed, 20 May 2020 14:09:39 +0800</pubDate>
+      
+      <guid>/tags/233/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>trial</title>
+      <link>/tags/trial/</link>
+      <pubDate>Wed, 20 May 2020 14:09:39 +0800</pubDate>
+      
+      <guid>/tags/trial/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
